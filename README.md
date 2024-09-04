@@ -1,6 +1,7 @@
 # Customer-Churn-Analysis
 
 This project aims to analyze customer churn patterns and identify key factors contributing to churn in a telecommunications company. The analysis uses data exploration, feature engineering, and machine learning techniques to build predictive models that help the company understand and mitigate churn.
+
 Table of Contents
 •	Project Overview
 •	Dataset
