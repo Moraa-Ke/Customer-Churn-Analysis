@@ -3,6 +3,7 @@
 This project aims to analyze customer churn patterns and identify key factors contributing to churn in a telecommunications company. The analysis uses data exploration, feature engineering, and machine learning techniques to build predictive models that help the company understand and mitigate churn.
 
 Table of Contents
+
 •	Project Overview
 •	Dataset
 •	Project Objectives
@@ -22,6 +23,7 @@ Dataset
 The dataset contains information about customers, including demographics, services subscribed, account details, and churn status. 
 
 Key features include:
+
 •	CustomerID: Unique identifier for each customer
 •	Tenure: Duration of the customer's relationship with the company
 •	MonthlyCharges: Monthly amount charged to the customer
@@ -49,7 +51,7 @@ Clone the repository:
 Usage
 1.	Run the Jupyter notebook or Python script to preprocess the data and perform analysis.
 2.	Adjust parameters and test different models as needed.
-3.	
+	
 Results
 •	Identified key factors influencing churn, such as contract type, tenure, and monthly charges.
 •	Developed a predictive model with an accuracy of 76%, helping to identify at-risk customers.
